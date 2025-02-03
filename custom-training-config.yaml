@@ -1,7 +1,7 @@
-path: C:/Users/jumai/Documents/Car-Prediction/custom-data
+path: custom-data
 
-train: C:/Users/jumai/Documents/Car-Prediction/custom-data/images/train
-val: C:/Users/jumai/Documents/Car-Prediction/custom-data/images/val
+train: images/train
+val: images/val
 
 names:
   0: smart fortwo Convertible 2012
